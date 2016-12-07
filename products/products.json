@@ -2,7 +2,7 @@
 	{
 	"name": "T-Rex",
 	"color": "gray",
-	"quantity": 1,
+	"quantity": 5,
 	"description": "A monstrous T-Rex that may or may not listen to your commands.",
 	"usaDollarPrice": 3000.00,
 	"imgsrc":"https://dl.dropboxusercontent.com/s/ttzhdan0rc90c3b/trex.jpg",
@@ -11,7 +11,7 @@
 	{
 	"name": "Bar Stool",
 	"color": "black",
-	"quantity": 7,
+	"quantity": 4,
 	"description": "A swiveling bar stool perfect for any raised table or counter. This bar stool also has a level for height adjustment.",
 	"usaDollarPrice": 199.99,
 	"imgsrc":"https://dl.dropboxusercontent.com/s/7i3j1vmaxoh1ili/barStool.jpg",
@@ -22,7 +22,7 @@
 	"color": "brown",
 	"quantity": 155,
 	"description": "Listen to your tunes anywhere with this portable and super loud bluetooth speaker!",
-	"usaDollarPrice": 49.99,
+	"usaDollarPrice": 419.99,
 	"imgsrc":"https://dl.dropboxusercontent.com/s/lx487x8kc6kl88d/bluetoothspeaker.jpg",
 	"isNew": false
 	},
@@ -83,9 +83,9 @@
 	{
 	"name": "Sunglasses",
 	"color": "black",
-	"quantity": 750,
+	"quantity": 150,
 	"description": "Stop the bright UV rays from shining into your eyes with these fashionable, polarized sunglasses.",
-	"usaDollarPrice": 19.99,
+	"usaDollarPrice": 59.99,
 	"imgsrc":"https://dl.dropboxusercontent.com/s/5ir4ozcez5sywsi/sunglasses.jpg",
 	"isNew": false
 	}
